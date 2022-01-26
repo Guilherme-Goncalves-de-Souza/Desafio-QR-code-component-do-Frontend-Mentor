@@ -21,6 +21,6 @@ Desktop design:            |  Mobile design:
   <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
 
-<a href = ""> Veja o projeto aqui. </a>
+<a href = "https://guilherme-goncalves-de-souza.github.io/Desafio-QR-code-component-do-Frontend-Mentor/"> Veja o projeto aqui. </a>
 
 
